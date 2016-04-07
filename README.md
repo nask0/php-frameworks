@@ -7,3 +7,5 @@ https://github.com/kenjis/php-framework-benchmark
 https://docs.phalconphp.com/en/1.2.6/reference/benchmark.html
 http://systemsarchitect.net/2013/04/23/performance-benchmark-of-popular-php-frameworks/
 https://www.simonholywell.com/static/files/2014-02-28/index.html
+
+http://espeo.eu/blog/is-phalcon-really-so-good/ - shitty article
